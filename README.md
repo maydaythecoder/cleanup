@@ -69,4 +69,4 @@ This project is built by humans, one ticket at a time.
 
 ## License
 
-TBD. See [#4](https://github.com/maydaythecoder/cleanup/issues/4).
+[MIT](LICENSE)
